@@ -25,9 +25,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Như đã giới thiệu ở trên, hiện trên thế giới có rất nhiều Design Patterns được phát hiện sau khi GoF xuất bản sách về chúng vào năm 1994. Tuy nhiên, 23 Design Patterns được giới thiệu trong sách là chuẩn mực nhất và được áp dụng rộng rãi nhất. Vậy chúng ta sẽ đi vào nghiên cứu 23 mẫu này.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Căn cứ vào mục đích sử dụng, ta có thể chia 23 Design Patterns thành 3 nhóm:
-- [Creational Pattern](https://github.com/PhucLe03/OOP/tree/main/Design%20Patterns/Creational%20Patterns) (gồm 5 mẫu) cung cấp các cơ chế tạo đối tượng giúp tăng tính linh hoạt và tái sử dụng code hiện có.
-- [Structural Pattern](https://github.com/PhucLe03/OOP/tree/main/Design%20Patterns/Structural%20Patterns) (gồm 7 mẫu) tập hợp các đối tượng và lớp thành các cấu trúc lớn hơn, đồng thời giữ cho các cấu trúc này linh hoạt và hiệu quả.
-- [Behavioral Pattern](https://github.com/PhucLe03/OOP/tree/main/Design%20Patterns/Behavioral%20Patterns) (gồm 11 mẫu) quản lý việc giao tiếp hiệu quả và phân công trách nhiệm giữa các đối tượng.
+- [Creational Pattern](/Design%20Patterns/Creational%20Patterns/) (gồm 5 mẫu) cung cấp các cơ chế tạo đối tượng giúp tăng tính linh hoạt và tái sử dụng code hiện có.
+- [Structural Pattern](/Design%20Patterns/Structural%20Patterns) (gồm 7 mẫu) tập hợp các đối tượng và lớp thành các cấu trúc lớn hơn, đồng thời giữ cho các cấu trúc này linh hoạt và hiệu quả.
+- [Behavioral Pattern](/Design%20Patterns/Behavioral%20Patterns) (gồm 11 mẫu) quản lý việc giao tiếp hiệu quả và phân công trách nhiệm giữa các đối tượng.
 
 # &nbsp;&nbsp;&nbsp;&nbsp;Lý do nên học Design Pattern
 &nbsp;&nbsp;&nbsp;&nbsp;Design Patterns là một bộ công cụ gồm các giải pháp đã được thử nghiệm và kiểm tra cho các vấn đề phổ biến trong thiết kế phần mềm. Ngay cả khi chúng ta chưa bao giờ gặp phải những vấn đề này, thì việc biết các mẫu vẫn hữu ích vì nó dạy chúng ta cách giải quyết tất cả các loại vấn đề bằng cách sử dụng các nguyên tắc của lập trình hướng đối tượng.
