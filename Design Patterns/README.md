@@ -33,3 +33,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Design Patterns là một bộ công cụ gồm các giải pháp đã được thử nghiệm và kiểm tra cho các vấn đề phổ biến trong thiết kế phần mềm. Ngay cả khi chúng ta chưa bao giờ gặp phải những vấn đề này, thì việc biết các mẫu vẫn hữu ích vì nó dạy chúng ta cách giải quyết tất cả các loại vấn đề bằng cách sử dụng các nguyên tắc của lập trình hướng đối tượng.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Design Patterns có thể thiết lập một ngôn ngữ chung để dễ dàng làm việc với đồng nghiệp của mình hiệu quả hơn. Chẳng hạn như câu nói: “Chỗ này dùng Singleton đi.”, người biết về Design Pattern sẽ hiểu ý tưởng và không cần giải thích Singleton là gì khi đã biết tên và công dụng của nó.
+
+# &nbsp;&nbsp;&nbsp;&nbsp;Tài liệu tham khảo
+
+[Danh sách tài liệu tham khảo](./Reference.md)
