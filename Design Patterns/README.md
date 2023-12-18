@@ -34,6 +34,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Design Patterns có thể thiết lập một ngôn ngữ chung để dễ dàng làm việc với đồng nghiệp của mình hiệu quả hơn. Chẳng hạn như câu nói: “Chỗ này dùng Singleton đi.”, người biết về Design Pattern sẽ hiểu ý tưởng và không cần giải thích Singleton là gì khi đã biết tên và công dụng của nó.
 
-# &nbsp;&nbsp;&nbsp;&nbsp;Tài liệu tham khảo
 
-[Danh sách tài liệu tham khảo](./Reference.md)
+# &nbsp;&nbsp;&nbsp;&nbsp; [File report đầy đủ về Design Patterns](./Assignment%20Reports/)
+
+# &nbsp;&nbsp;&nbsp;&nbsp; [Danh sách tài liệu tham khảo](./Reference.md)
